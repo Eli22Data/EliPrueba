@@ -1,4 +1,4 @@
 Plantar;Mes;Hecho
-Tomates;Mayo;No
-Pimientos;Mayo;No
+Tomates;Mayo;Sí
+Pimientos;Junio;No
 Pepinos;Mayo;No
