@@ -1,0 +1,4 @@
+Plantar;Mes;Hecho
+Tomates;Mayo;No
+Pimientos;Mayo;No
+Pepinos;Mayo;No
